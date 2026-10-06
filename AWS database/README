@@ -1,0 +1,41 @@
+# Databases
+This folder contains my database work from my **AWS re/Start** training.
+
+## What I Practiced
+
+### Amazon RDS + SQL
+
+* Created and configured an Amazon RDS MySQL database
+* Connected to RDS from a Linux EC2 server
+* Created and populated database tables
+* Practiced SQL queries
+* Used `INNER JOIN` to combine data from related tables
+
+### SQL Commands
+
+Practiced working with SQL commands including but not limited to:
+
+* `CREATE`
+* `INSERT`
+* `SELECT`
+* `UPDATE`
+* `DELETE`
+* `JOIN`
+* `UNION`
+* `COUNT`
+
+### Amazon DynamoDB
+
+* Practiced working with DynamoDB
+* Learned about NoSQL databases
+* Worked with tables and items ( DynamoDB )
+* Compared relational databases with NoSQL databases
+
+## Technologies
+
+* Amazon RDS
+* Amazon DynamoDB
+* MySQL
+* SQL
+* Amazon EC2
+* Linux
